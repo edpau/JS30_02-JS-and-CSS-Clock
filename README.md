@@ -6,6 +6,9 @@
 
 <img src="./src/images/screenshot.png" width="300">
 
+- [Solution URL](https://github.com/edpau/JS30_02-JS-and-CSS-Clock)
+- [Live Site URL](https://edpau.github.io/JS30_02-JS-and-CSS-Clock/)
+
 
 ## What I learn 
 ### 1. transform: translateY(-3px); in clock-face
